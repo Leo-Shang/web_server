@@ -1,6 +1,6 @@
-# web_server
+# Web Server
 
-## CMPT 371, Data Communication I, SFU
+CMPT 371, Data Communication I, SFU
 
 ## What the Server Does
 
